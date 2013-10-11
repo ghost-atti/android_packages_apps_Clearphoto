@@ -8,13 +8,13 @@
 -->
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.cleartype.CleartypeWallpapers">
+    package="com.cleartype.Clearphoto">
     
     <uses-permission android:name="android.permission.SET_WALLPAPER" />
     
     <uses-sdk
-        android:minSdkVersion="16"
-        android:targetSdkVersion="15" />
+        android:minSdkVersion="14"
+        android:targetSdkVersion="17" />
 
     <application
         android:icon="@drawable/ic_launcher"

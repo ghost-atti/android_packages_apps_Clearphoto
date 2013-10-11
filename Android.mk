@@ -17,6 +17,6 @@ LOCAL_MODULE_TAGS := optional
 LOCAL_STATIC_JAVA_LIBRARIES := \
     android-support-v4
 
-LOCAL_PACKAGE_NAME := CleartypeWallpapers
+LOCAL_PACKAGE_NAME := Clearphoto
 
 include $(BUILD_PACKAGE)
